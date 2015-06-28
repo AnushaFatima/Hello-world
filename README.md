@@ -1,2 +1,3 @@
-# Hello-world
+# Hello Git Users
 First repo =)
+Git is fun.
